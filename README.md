@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 - 👯 I’m looking to collaborate on open-source projects that make a difference.
 - 💬 Ask me about Blazor, React, TypeScript, and modern web development.
 - 📫 How to reach me: [skclusive@outlook.com](mailto:skclusive@outlook.com)
-- ⚡ Fun fact: I love to play chess and solve puzzles in my free time.
+- ⚡ Fun fact: I love to play badminton in my free time.
 
 ## 🛠️ Technologies & Tools
 
